@@ -1,0 +1,33 @@
+
+body{
+    background-color: #24332C;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+ul#nav1{
+    background-color: #39403C;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    list-style-type: none;
+    
+    padding: 10px;
+}
+
+ul#nav2{
+        background-color: #39403C;
+        display: flex;
+        justify-content: space-between;
+        color: white;
+        list-style-type: none;
+        align-items: center;
+        padding: 30px;
+        border: none;
+}
+
+.class{
+    height: 100px;
+    width: 70px;
+    text-align: center;
+}
